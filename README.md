@@ -1,1 +1,2 @@
-Its clone of Spotify
+SpotifyClone
+
