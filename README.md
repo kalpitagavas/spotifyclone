@@ -1,1 +1,1 @@
-# spotifyclone
+Its clone of Spotify
